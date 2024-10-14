@@ -2,6 +2,8 @@
 
 This repository contains my first **Large Language Model (LLM)** project—an AI-powered assignment solver built using **Streamlit**. The app accepts various file formats (PDF, Word, PowerPoint, Excel, Python code) and generates assignment solutions using Google’s **Gemini 1.5 Flash** LLM.
 
+[Deployed Here](https://ai-assignment-solver.streamlit.app/)
+
 ## Features
 
 - **File Upload Support**: Handles multiple file formats (PDF, DOCX, PPTX, XLSX, PY).
