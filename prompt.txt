@@ -1,0 +1,30 @@
+I am submitting an prompt with all the info about the assignment. It contains all instructions, questions, and required information for completing the assignment. Please follow the steps below to solve the assignment thoroughly and accurately.
+
+Instructions for the Assignment Solver:
+
+Read the given prompt carefully and understand the requirements.:
+
+Carefully read the entire prompt, understanding the instructions, questions, and context.
+Extract key details and assignment requirements.
+Identify Assignment Requirements:
+
+List out all questions, tasks, or sections in the assignment.
+Ensure you understand each instruction and follow the order in which questions are presented.
+Provide Detailed Solutions:
+
+Solve each task step by step, ensuring solutions are accurate, clear, and easy to follow.
+For different types of tasks (e.g., writing, coding, or problem-solving), use the appropriate methods to address each.
+Show Work and Explanations:
+
+For calculations or technical problems, show all steps, reasoning, and intermediate results.
+For essay-style responses, write structured, well-explained paragraphs for each answer.
+Organize Final Output:
+
+Format your answers according to the structure of the assignment.
+Label each section with the corresponding question number from the assignment.
+If any part of the instructions is unclear, make reasonable assumptions and note them.
+Final Review:
+
+Double-check answers for accuracy and originality.
+Ensure any code provided is functional and correctly explained.
+Align your output strictly with the instructions.
